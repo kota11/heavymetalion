@@ -1,4 +1,4 @@
-# heavymetalion
+# Heavymetalion
 
 Title: Heavy Metal Ion Prediction in Water Using Machine Learning
 
